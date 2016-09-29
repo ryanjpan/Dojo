@@ -1,0 +1,14 @@
+body{
+	background-color: black;
+	color:white;
+	width: 700px;
+}
+
+img{
+	border-style: solid;
+	border-color: lightgray;
+	display: inline-block;
+	vertical-align: top;
+	max-width: 300px;
+	margin: 5px;
+}
